@@ -1,0 +1,30 @@
+﻿  多维数组.c
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(34,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(34,9): message : 请考虑在格式字符串中使用“%zd”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(35,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(35,9): message : 请考虑在格式字符串中使用“%zd”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(36,9): message : 请考虑在格式字符串中使用“%zd”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(37,9): message : 请考虑在格式字符串中使用“%zd”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(40,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(40,9): message : 请考虑在格式字符串中使用“%lld”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(40,9): message : 请考虑在格式字符串中使用“%Id”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(40,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(41,9): message : 请考虑在格式字符串中使用“%lld”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(41,9): message : 请考虑在格式字符串中使用“%Id”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(41,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(42,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(42,9): message : 请考虑在格式字符串中使用“%lld”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(42,9): message : 请考虑在格式字符串中使用“%Id”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(42,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(45,9): message : 请考虑在格式字符串中使用“%lld”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(45,9): message : 请考虑在格式字符串中使用“%Id”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(45,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(46,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(46,9): message : 请考虑在格式字符串中使用“%lld”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(46,9): message : 请考虑在格式字符串中使用“%Id”
+D:\1.High-level language\+后端技能点\C\多维数组\多维数组.c(46,9): message : 请考虑在格式字符串中使用“%I64d”
+  多维数组.vcxproj -> D:\1.High-level language\+后端技能点\C\多维数组\x64\Debug\多维数组.exe
