@@ -1,4 +1,0 @@
-﻿  学生考试-自测.c
-D:\1.High-level language\+后端技能点\C\学生成绩案例\学生考试-自测.c(42,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-D:\1.High-level language\+后端技能点\C\学生成绩案例\学生考试-自测.c(42,10): message : 请考虑在格式字符串中使用“%zd”
-  学生成绩案例.vcxproj -> D:\1.High-level language\+后端技能点\C\学生成绩案例\x64\Debug\学生成绩案例.exe
